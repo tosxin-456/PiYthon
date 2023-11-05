@@ -1,3 +1,5 @@
 gay = 1
-print (gay)
+peepe = 3
+c = peepe + gay
+print (c)
 #my very first python comment
