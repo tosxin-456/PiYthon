@@ -6,4 +6,4 @@ app = Flask(__name__);
 
 def newForm():
     data  = request.form
-    return "New user registered succ"
+    return "New user registered success"
