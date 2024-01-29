@@ -15,4 +15,4 @@ z = 'angry'
 
 a = x + y  + z
 
-print(len(a))
+print(len(a[1]))
