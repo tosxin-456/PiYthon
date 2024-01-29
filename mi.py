@@ -10,3 +10,5 @@ print(len(List))
 #  return x
 
 x = "sad"
+y = 'happy'
+z = ''
