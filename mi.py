@@ -14,4 +14,5 @@ y = 'happy'
 z = 'angry'
 
 a = x + y  + z
-print(a)
+
+print(len(a))
