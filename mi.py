@@ -13,5 +13,5 @@ x = "sad"
 y = 'happy'
 z = 'angry'
 
-a = x + y + '\b' + z
+a = x + y  + z
 print(a)
