@@ -13,6 +13,6 @@ x = "sad"
 y = 'happy'
 z = 'angry'
 
-a = x + y  + z
+# a = x + y  + z
 
 print(len(a[1]))
