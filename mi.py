@@ -11,7 +11,7 @@ print(len(List))
 
 x = "sad"
 y = 'happy'
-z = 'angry'
+# z = 'angry'
 
 # a = x + y + '\b' + z
 
