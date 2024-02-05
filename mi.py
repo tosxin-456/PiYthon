@@ -9,7 +9,7 @@ print(len(List))
 # def helloWordl:
 #  return x
 
-x = "sad"
+# x = "sad"
 # y = 'happy'
 # z = 'angry'
 
