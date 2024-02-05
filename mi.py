@@ -10,7 +10,7 @@ print(len(List))
 #  return x
 
 x = "sad"
-y = 'happy'
+# y = 'happy'
 # z = 'angry'
 
 # a = x + y + '\b' + z
