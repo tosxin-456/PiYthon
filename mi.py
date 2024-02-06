@@ -5,7 +5,7 @@ Bool = True  # that is a boolean
 List = [1,1.0, "one", True]
 tuple_ = (1,1.0,"one")
 # dictionery_ = {one:1,two:2}
-print(len(List))
+# print(len(List))
 # def helloWordl:
 #  return x
 
