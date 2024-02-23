@@ -15,6 +15,7 @@ const monthOfYear = [
   'May',
   'Jun'
 ]
+
 const currentDate = new Date()
 const day = currentDate.getDay()
 const month = currentDate.getMonth()
