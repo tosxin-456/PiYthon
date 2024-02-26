@@ -44,4 +44,5 @@ print(x)
 
 # print(x)
  
-
+def monthsOfYear:
+  let months = ['jan', 'feb', 'march']
